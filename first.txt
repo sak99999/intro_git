@@ -5,3 +5,4 @@ git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·
 .git rm
 .git status
 .git diff
+.git diff
